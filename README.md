@@ -37,7 +37,7 @@
       <a/>
     </td>
     <td>
-      <a href="https://github.com/thepushkarp">
+      <a href="https://github.com/maximlitvinov">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximlitvinov&layout=compact&theme=tokyonight">
       <a/>
     </td>
